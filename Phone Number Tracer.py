@@ -18,3 +18,4 @@ print(phone)
 print(time)
 print(reg)
 print(car)
+#-------------------------------- Thank you ----------------------------------------
